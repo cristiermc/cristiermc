@@ -35,6 +35,7 @@ Aplicação web interativa desenvolvida via *Vibe Coding* (Base44) para engajar 
   - **Painel ADM:** Controle de rodadas, registro de dezenas, central de notificações de Bingo, exportação de dados e moderação de fotos.
 - **Competências:** Vibe Coding, arquitetura web, gestão de estado e foco em UX/integração.
 
+🔗 **[Acessar o Repositório do Projeto](https://github.com/cristiermc/bingo-unimed)**
 ---
 
 ## 📬 Contato
