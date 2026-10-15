@@ -48,14 +48,14 @@ Aplicação web interativa desenvolvida para engajar colaboradores de múltiplos
 
 ---
 
-### 🕹️ [Pokédex Web App](https://github.com/cristiermc/pokedex)
+### 🕹️ [Pokédex Web App](https://github.com/cristiermc/pokedex-by-cristec.git)
 Aplicação interativa para consulta de Pokémons desenvolvida para praticar consumo de serviços web e manipulação de dados em tempo real.
 
 - **O Desafio & Aprendizado:** Implementar requisições assíncronas a uma API REST externa (PokéAPI), tratar estados de carregamento e construir uma busca/filtragem fluida.
 - **Funcionalidades:** Busca por nome/ID, listagem dinâmica, exibição de estatísticas/tipos e design responsivo.
 - **Tecnologias & Conceitos:** JavaScript / TypeScript, HTML5, CSS3, APIs RESTful (PokéAPI) e Async/Await.
 
-🔗 **[Acessar Repositório da Pokédex]([https://github.com/cristiermc/pokedex](https://github.com/cristiermc/pokedex-by-cristec.git))**
+🔗 **[Acessar Repositório da Pokédex](https://github.com/cristiermc/pokedex-by-cristec.git)**
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
